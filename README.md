@@ -4,7 +4,7 @@
 
 I build and scale quality practices with a broader focus on delivery effectiveness, engineering excellence, and technology leadership.
 
-My current professional development is focused on moving beyond QA leadership into wider **Delivery / Technology Leadership** responsibilities — connecting quality, flow, governance, engineering practices, and measurable improvement.
+My work increasingly spans beyond QA leadership into Delivery and Technology Leadership — connecting quality, flow, governance, engineering practices, AI-enabled delivery, and measurable improvement.
 
 ## Current focus
 
