@@ -1,16 +1,35 @@
-## Hi there 👋
+# Megi Tephnadze
 
-<!--
-**megi-tephnadze/megi-tephnadze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Head of QA & Testing | Delivery Excellence • Quality Engineering • AI-enabled Delivery • Continuous Improvement**
 
-Here are some ideas to get you started:
+I build and scale quality practices with a broader focus on delivery effectiveness, engineering excellence, and technology leadership.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My current professional development is focused on moving beyond QA leadership into wider **Delivery / Technology Leadership** responsibilities — connecting quality, flow, governance, engineering practices, and measurable improvement.
+
+## Current focus
+
+- Flow & Delivery Metrics
+- Value Stream Management / Optimization
+- Delivery Governance / Enterprise SDLC Governance
+- Developer Experience (DevEx) / CI/CD / Engineering Delivery
+- Technology Operating Model / Organizational Maturity
+- Continuous Improvement
+- Engineering Standards / Engineering Excellence
+- Strategy-to-Execution
+- AI-assisted QA / AI-enabled Delivery
+
+## How I work
+
+**Learn → Apply → Measure → Analyze → Improve → Document → Anonymize → Publish**
+
+I use GitHub as a professional evidence portfolio — not only for code, but also for frameworks, case studies, diagrams, templates, synthetic datasets, and measurable improvement examples.
+
+For case studies, I use a consistent structure:
+
+**Problem → Context → Baseline → Analysis → Decision → Intervention → Measurement → Result → Lessons Learned**
+
+## Portfolio direction
+
+I am building a public portfolio around practical Delivery and Technology Leadership evidence, with all work anonymized or recreated with synthetic data where necessary.
+
+[LinkedIn](https://www.linkedin.com/in/megi-tephnadze/)
